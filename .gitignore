@@ -1,0 +1,6 @@
+DBIx-Class-Mutable-*
+.build
+*.swp
+*.bak
+*.tdy
+*.LOG
